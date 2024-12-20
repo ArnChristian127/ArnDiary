@@ -7,7 +7,7 @@
 }
 html {
     scroll-behavior: smooth;
-  }
+}
 .nav-bar-container {
     background-color: rgb(207, 194, 255);
     padding: 5px;
@@ -60,7 +60,7 @@ html {
     background-position: center;
 }
 .content-1-container {
-    min-height: 700px;
+    min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -136,7 +136,7 @@ html {
     background-position: center;
 }
 .content-2-container {
-    min-height: 800px;
+    min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -257,7 +257,7 @@ html {
     background-position: center;
 }
 .content-3-container {
-    min-height: 800px;
+    min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -303,8 +303,8 @@ html {
     background-attachment: fixed;
     background-position: center;
 }
-.content-3-container {
-    min-height: 800px;
+.content-4-container {
+    min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
@@ -327,8 +327,8 @@ html {
     background-attachment: fixed;
     background-position: center;
 }
-.content-3-container {
-    min-height: 800px;
+.content-5-container {
+    min-height: 100vh;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
